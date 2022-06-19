@@ -11,6 +11,7 @@ Repository Contents
 -------------------
 * **/Datasheets** - Datasheets for the OLED module
 * **/Enclosure** - 3D model of the standard Microview Enclosure
+* **/Fritzing** - Fritzing diagram of the MicroView
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Libraries** - All Arduino libraries and board examples
 * **/Production** - Test bed files and production panel files
